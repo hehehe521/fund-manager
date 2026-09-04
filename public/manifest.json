@@ -1,7 +1,7 @@
 {
-  "name": "小胡养基",
+  "name": "呵呵养基",
   "short_name": "养基",
-  "description": "本地优先、隐私至上的基金管理应用",
+  "description": "基金管理应用",
   "start_url": "/fund-manager/",
   "scope": "/fund-manager/",
   "display": "standalone",
