@@ -507,7 +507,7 @@ const AppContent: React.FC = () => {
 
       <div className="app-shell__content">
         <Header
-          title={t('common.appTitle') || 'XiaoHuYangJi'}
+          title={t('common.appTitle') || 'HeHeJiJin'}
           hiddenOnMobile={isMobileChromeHidden}
           activeTab={activeTab}
         />
@@ -537,7 +537,6 @@ const AppContent: React.FC = () => {
           </div>
         )}
 
-        <Ticker hiddenOnMobile={isMobileChromeHidden} />
         <BottomNav
           activeTab={activeTab}
           hiddenOnMobile={isMobileChromeHidden}
