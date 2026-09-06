@@ -178,7 +178,7 @@ export const Header: React.FC<HeaderProps> = ({
           {/* 左侧区域：GitHub Logo & 在线状态 */}
           <div className="z-10 flex min-w-0 items-center gap-2 sm:gap-2.5">
             <a
-              href="https://github.com/SurpassHR/fund-manager"
+              href="https://he521.pp.ua"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center transition-opacity hover:opacity-70 active:scale-95"
