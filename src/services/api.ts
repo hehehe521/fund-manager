@@ -21,7 +21,7 @@ import {
 } from './constants';
 
 // --- API Configurations ---
-const API_GATEWAY_BASE = 'http://158.180.87.232:3001/api';
+const API_GATEWAY_BASE = 'https://gp.hrfuqiang.top/api-gateway';
 
 const MORNINGSTAR_API_BASE = import.meta.env.DEV
   ? '/cn-api'
